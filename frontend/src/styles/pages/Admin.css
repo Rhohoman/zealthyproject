@@ -1,0 +1,21 @@
+.admin-container {
+  padding-top: 50px;
+  height: 100vh;
+  background-color: #f4f4ec;
+  display: block;
+}
+
+.checkbox-container {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+h4 {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.checkboxes {
+  display: flex;
+  justify-content: space-evenly;
+}

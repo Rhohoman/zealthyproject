@@ -1,0 +1,25 @@
+.second-step {
+  padding-top: 50px;
+  height: 100vh;
+  background-color: #f4f4ec;
+}
+
+.second-step label {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
+
+#submit-button {
+  margin-top: 25px;
+}
+
+.second-step form div {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#about-me-input {
+  width: 525px;
+  height: 85px;
+}

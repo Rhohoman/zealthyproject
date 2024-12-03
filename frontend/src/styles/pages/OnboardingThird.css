@@ -1,0 +1,21 @@
+#third-step {
+  padding-top: 50px;
+  height: 100vh;
+  background-color: #f4f4ec;
+}
+
+#third-step label {
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
+
+#third-step div {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#about-me-input {
+  width: 525px;
+  height: 85px;
+}

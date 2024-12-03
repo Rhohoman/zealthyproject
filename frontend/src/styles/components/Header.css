@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ace4c4;
+  height: 185px;
+}
+
+.header #logo {
+  font-size: 50px;
+  font-weight: 800;
+  font-family: sans-serif;
+  margin: 50px 45px;
+  text-decoration: none;
+  color: black;
+}
+
+.header img {
+  width: 180px;
+  height: 100%;
+}
